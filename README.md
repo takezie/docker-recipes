@@ -2,7 +2,7 @@
 
 ВАЖНО: Не используйте эти шаблоны, ни для чего, кроме как сделать залповый выстрел себе в ногу из всех тех орудий, что собраны здесь.
 
-Основано на [Лучшие практики Docker](https://docs.docker.com/articles/dockerfile_best-practices/).
+Основано на [Лучших практиках Docker](https://docs.docker.com/articles/dockerfile_best-practices/).
 
 Заточено под установку Laravel, но легко изменить под свои нужды.
 
