@@ -1,5 +1,1 @@
-Набор шаблонов для docker для автоматического развертывания PHP-приложений или фреймворков в парадигме blue/green deployment.
-
-ВАЖНО: Не используйте эти шаблоны, ни для чего, кроме как сделать залповый выстрел себе в ногу из всех тех орудий, что собраны здесь.
-
-Основано на [лучших практиках Docker](https://docs.docker.com/articles/dockerfile_best-practices/).
+Some docker files for example / inspiration
